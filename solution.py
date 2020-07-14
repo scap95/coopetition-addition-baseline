@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-""" demo of a simple coopetition solution """
+""" demo of a simple coopetition solution"""
 import os
 import sys
 import pandas as pd
